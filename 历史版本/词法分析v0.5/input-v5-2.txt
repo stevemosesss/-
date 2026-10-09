@@ -1,0 +1,5 @@
+int a = 0;
+double b = 3.14;
+a = b @ 2;
+swich (a) retrun 0;
+#

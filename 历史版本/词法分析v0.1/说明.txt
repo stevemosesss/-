@@ -1,0 +1,14 @@
+v0.1
+
+/*  标识符: token.class=1 */
+/*  正整数: token.class=2 */
+/*    加号: token.class=3 */
+/*    分号: token.class=4 */
+/*    冒号: token.class=5 */
+/*  赋值号: token.class=6 */
+/*  小于号: token.class=7 */
+/*小于等于号: token.class=8 */
+/*文件结束符'#': token.class=9*/
+
+基本实现了对特定符号编码的识别，但是有一个问题如果或没有空格分隔会一起识别
+ ，在程序输入输出，还没有做好保存记录

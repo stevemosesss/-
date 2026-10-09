@@ -1,0 +1,6 @@
+int a = 0 ;
+while ( a < b )
+if ( a + 3 < b )  a = a + 2;
+float b = 3.14;
+return 0;
+#

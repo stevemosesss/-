@@ -1,0 +1,14 @@
+int main(){
+     a = 0 ;
+while ( a < b )
+if ( a + 
+3 < b )  a = a + 2;
+if( xxx+a<=3.1415)
+float b = 3.14;
+while(a<1)
+for()
+b>a;
+return 0;
+//注释111
+}
+#
