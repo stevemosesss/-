@@ -1,0 +1,6 @@
+int a = 0; /* 合法注释 */
+int b = 0x3G;
+*/ float c = 1.05e;
+return 0;
+/* 未闭合注释
+#
